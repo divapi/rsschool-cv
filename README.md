@@ -1,1 +1,1 @@
-https://github.com/divapi?tab=repositories
+https://github.com/divapi
