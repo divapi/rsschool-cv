@@ -1,1 +1,1 @@
-https://github.com/divapi
+https://divapi.github.io/rsschool-cv/cv
