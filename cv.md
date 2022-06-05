@@ -1,7 +1,10 @@
 # Grigoriy Avlasovih
 
 ## Contacts: 
-[Гриша Токуев](https://vk.com/g.avlasovich), Telegram + 375 29 864 25 73 
+* VK - [Гриша Токуев](https://vk.com/g.avlasovich), 
+* Telegram -  + 375 29 864 25 73 
+* github - https://github.com/divapi
+
 ## Summary: 
 
 **My goal is to learn everything new and interesting. I love programming. I like to spend a lot of time doing things that interest me. In order to get a promising job with a decent salary in the future.**
