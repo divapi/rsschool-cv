@@ -16,27 +16,20 @@ _There are no graduation courses. But at the same time as your courses I also go
 
 # Code example: 
 
-```html
-<nav class="nav nav-primary">
-  <ul>
-    <li class="tab-conversation active">
-      <a href="#" data-role="post-count" class="publisher-nav-color" data-nav="conversation">
-        <span class="comment-count">0 комментариев</span>
-        <span class="comment-count-placeholder">Комментарии</span>
-      </a>
-    </li>
-    <li class="dropdown user-menu" data-role="logout">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-        <span class="dropdown-toggle-wrapper">
-          <span>
-            Войти
-          </span>
-        </span>
-        <span class="caret"></span>
-      </a>
-    </li>
-  </ul>
-</nav>
+``` <!DOCTYPE htmk>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Моя первая страничка! УЛЯЛЯ</title>
+		<link href="styte.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+	Привет <a href="https://www.youtube.com">Мир</a>!<br/>
+	Привет <a id="sis" href="https://www.youtube.com">Мир</a>!<br/>
+	Привет <a href="https://www.youtube.com">Мир</a>!<br/>
+		<div>Этот тег будет зеленым </div>
+	</body>
+</html>
 ```
 
 
