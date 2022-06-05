@@ -1,6 +1,6 @@
 # Grigoriy Avlasovih
 
-![my foto](https://avatars.githubusercontent.com/u/99872335?s=400&u=dc727c9c3d2fee6a6029cdb3cdfaaf42d41b1f31&v=4)
+![my foto](https://sun9-east.userapi.com/sun9-20/s/v1/if1/Z9Fz_IytgvmSu8QHw_plBaWSyP0aSXLnNJy0avBAS1t8-SXttEeJejdoeoZDvws3vTuNBC3k.jpg?size=2560x1920&quality=96&type=album)
 
 ## Contacts: 
 * VK - [Гриша Токуев](https://vk.com/g.avlasovich), 
