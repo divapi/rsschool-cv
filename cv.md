@@ -16,7 +16,7 @@ _There are no graduation courses. But at the same time as your courses I also go
 
 # Code example: 
 
-``` <!DOCTYPE htmk>
+```html
 <html>
 	<head>
 		<meta charset="UTF-8"/>
