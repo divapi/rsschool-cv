@@ -1,5 +1,7 @@
 # Grigoriy Avlasovih
 
+![my foto](https://avatars.githubusercontent.com/u/99872335?s=400&u=dc727c9c3d2fee6a6029cdb3cdfaaf42d41b1f31&v=4)
+
 ## Contacts: 
 * VK - [Гриша Токуев](https://vk.com/g.avlasovich), 
 * Telegram -  + 375 29 864 25 73 
