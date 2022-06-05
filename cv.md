@@ -11,6 +11,25 @@ _At the moment I don’t have any skills and experience, in fact, for this purpo
 ## _Work experience:_ 
 _There are no graduation courses. But at the same time as your courses I also go to [Step Academy](https://itstep.by/)_
 
+# Code example: 
+
+``` <!DOCTYPE htmk>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Моя первая страничка! УЛЯЛЯ</title>
+		<link href="styte.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+	Привет <a href="https://www.youtube.com">Мир</a>!<br/>
+	Привет <a id="sis" href="https://www.youtube.com">Мир</a>!<br/>
+	Привет <a href="https://www.youtube.com">Мир</a>!<br/>
+		<div>Этот тег будет зеленым </div>
+	</body>
+</html>
+```
+
+
 ## Language: 
 
 _I know English at the level of Google translator_ 
